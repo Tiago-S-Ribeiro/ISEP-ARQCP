@@ -1,2 +1,7 @@
 # ISEP-ARQCP-2019
-C and Assembly resolutions of ARQCP unit course modules
+-------
+###Resolutions of ARQCP unit course modules
+Languages used: C & Assembly
+
+Each module has a statement on 'Statements' folder .
+ 
