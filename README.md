@@ -9,7 +9,7 @@ Each module has a respective statement on 'Statements' folder.
 
 --------------------------------
 
-2º Year, 2º Semester
+2º Year, 1º Semester
 
 --------------------------------
 ##### PT (Arquitectura de Computadores)
@@ -21,7 +21,7 @@ Cada módulo tem o respetivo enunciado na pasta 'Statements'.
 
 --------------------------------
 
-2º Ano, 2º Semestre
+2º Ano, 1º Semestre
 
 --------------------------------
 
